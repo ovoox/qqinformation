@@ -1,5 +1,11 @@
 # qqinformation
 适用于云崽的QQ相关信息查询JS插件
+
+## 🍓  食用说明
+1.利用API接口查询QQ信息的js代码
+2.将代码放入到<ins>example</ins>文件夹里面即可
+3.之后QQ输入<ins>QQ信息+QQ号</ins>
+⚠️：无需+号 直接输入
 ```ruby
 QQ:25204733
 QID: GOD8858
