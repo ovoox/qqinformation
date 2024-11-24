@@ -1,6 +1,6 @@
 # qqinformation
 适用于云崽的QQ相关信息查询JS插件
-```
+```ruby
 QQ:25204733
 QID: GOD8858
 昵称: 󠀋󠀋󠀋󠀋󠀋󠀋󠀋󠀋
